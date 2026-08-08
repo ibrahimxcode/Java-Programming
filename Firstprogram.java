@@ -1,6 +1,6 @@
 // class = defines a class
 // Hello = name of the class
-class Hello {
+class Firstprogram{
 
     // main() = starting point of the Java program
     // public = accessible from anywhere
